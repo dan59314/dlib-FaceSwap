@@ -7,10 +7,8 @@ https://github.com/matthewearl/faceswap
 	
 [dlib faceswap Video](https://youtu.be/TY01A5BjDOY)
 
-[![dlib faceswap](https://github.com/dan59314/dlib-FaceSwap/tree/master/dlib_faceswap/camera.jpg)]
+[![dlib faceswap](https://github.com/dan59314/dlib-FaceSwap/blob/master/camera.png)]
 (https://youtu.be/TY01A5BjDOY?t=0s "dlib faceswap") 
-<img src="https://github.com/dan59314/dlib-FaceSwap/tree/master/dlib_faceswap/camera.jpg" width="480">
-
 
 ------------------------------------------------------------------------------------
 ## Misc. Projects of 3D, Multimedia, Arduino Iot, CAD/CAM, Free Tools
