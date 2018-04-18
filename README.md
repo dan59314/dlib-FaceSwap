@@ -7,8 +7,9 @@ https://github.com/matthewearl/faceswap
 	
 [dlib faceswap Video](https://youtu.be/TY01A5BjDOY)
 
-[![dlib faceswap](https://github.com/dan59314/dlib-FaceSwap/tree/master/dlib_faceswap/camera.jpg)](https://youtu.be/TY01A5BjDOY?t=0s "dlib faceswap") 
-
+[![dlib faceswap](https://github.com/dan59314/dlib-FaceSwap/tree/master/dlib_faceswap/camera.jpg)]
+(https://youtu.be/TY01A5BjDOY?t=0s "dlib faceswap") 
+<img src="https://github.com/dan59314/dlib-FaceSwap/tree/master/dlib_faceswap/camera.jpg" width="480">
 
 
 ------------------------------------------------------------------------------------
